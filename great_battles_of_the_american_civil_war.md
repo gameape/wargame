@@ -1,4 +1,8 @@
 # The Great Battles of the American Civil War
+## 基本
+- 10面体ダイス、0は10ではなく0
+- UDD：dr≦コヒージョンで成功
+
 ## コマ
 - OC（Overall Commander）☆☆☆☆ Initiative rating（init drとefficiency）- 指揮範囲
 - 軍団長☆☆☆ Efficiency Rating（efficiencyと命令） - 指揮範囲
@@ -6,9 +10,6 @@
 - 旅団/連隊長☆ Action Profile - 指揮範囲 - Orders Rating
 - 戦闘ユニット：兵器タイプ 戦闘力/射撃力 - コヒージョン - MA
 - 騎兵は乗馬と下馬でコマ交換
-
-## ダイス
-- 10面体、0は10ではなく0
 
 ## プレイの手順
 - イニシアティブセグメント（drの大きい方がイニシアティブ、タイなら無し）
