@@ -4,12 +4,7 @@
 - UDD：dr≦コヒージョンで成功
 
 ## コマ
-- OC（Overall Commander）☆☆☆☆ Initiative rating（init drとefficiency）- 指揮範囲
-- 軍団長☆☆☆ Efficiency Rating（efficiencyと命令） - 指揮範囲
-- 師団長☆☆ 旅団連係 - 指揮範囲 - Activation Rating
-- 旅団/連隊長☆ Action Profile - 指揮範囲 - Orders Rating
-- 戦闘ユニット：兵器タイプ 戦闘力/射撃力 - コヒージョン - MA
-- 騎兵は乗馬と下馬でコマ交換
+[![GBACW (GMT)](https://farm2.staticflickr.com/1863/44011880974_15483e24da.jpg "GBACW (GMT) Counters")](https://www.flickr.com/photos/22264692@N00/44011880974/)
 
 ## プレイの手順
 - イニシアティブセグメント（drの大きい方がイニシアティブ、タイなら無し）
