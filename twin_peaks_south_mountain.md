@@ -17,7 +17,9 @@
 - Gradual Slopeは存在しない（Minor Slopeということ？）
 
 ## 射撃
-- RidgeはLOSをブロック（隣接ヘクスでも）
+- Ridge、Steep/Sheer SlopeはLOSをブロック（隣接ヘクスでも）
+	- Steep/Sheer Slopeが低い方のヘクスの一部
+	- Steep/Sheer Slopeより高い方のヘクスが高い
 - 砲は高度差≦距離なら射撃可
 - Steep/Sheer Slopeを上に向かってCanisterを撃てない
 - 2ヘクス以内に登りのSteep/Sheer Slopeがある砲はそのSlopeより高い目標しか撃てない
