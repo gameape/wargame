@@ -13,8 +13,9 @@
 - 両プレイヤーとも橋架設可
 - GunboatはYork-Pamunkey-Mattaponyで利用可
 - NagleeはChickahominyを渡れず
-- 南軍移動制限
+- Longstreet、AP Hill、DH HillはTotopotomoy（08XXが西端）を北に渡れず（退却は可）
 - 第1ターン最初の2回は南軍イニシアティブ、この間は北軍隣接ヘクスに進入不可、05xx以東でChickahominyを渡れず
+- 南軍がInit Rollで2回勝ったら夕暮れ（効果なし）、その後init rollがタイなら夜（そのinitは南軍の勝ち、突撃と騎兵退却と行軍での攻撃は不可）
 
 ### 勝利条件
 |VP|理由|
