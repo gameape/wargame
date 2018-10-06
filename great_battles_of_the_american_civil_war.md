@@ -43,6 +43,14 @@
 	- 旅団長 = 師団命令（II/C）で師団長から命令を受け取れない、自師団のAMを1回スキップ
 	- ユニット = 最後に受けた命令が有効、自師団のAMを1回スキップ
 
+## 活性化能力決定（Efficiency）
+- チットで軍団のEfficiency値を決める
+- 軍団長のEfficiency Ratingで修整
+- 師団長が軍団長の指揮範囲にいなければ-1
+- 師団長のActivation Ratingで修整
+- Combat Ineffectiveの師団は最大2AM
+- AMは最低1個、最高4個
+
 ## 移動
 - 前進命令は道利用可（Extended Column使用）、Trailは端数切り上げ
 - 攻撃命令はMA*1/2（切り上げ）、道/橋/浅瀬使用不可、Flank Refuse可
