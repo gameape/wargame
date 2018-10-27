@@ -1,0 +1,103 @@
+# Wild Blue Yonder
+
+## カードの読み
+- Level / Dive
+- Perform：手札の枚数
+- Burst：火力
+- Ceil：最高高度
+- Horsepower：ドロー枚数
+- Speed：Full Throttle保持数（ジェットのみ）
+- Thrust：Full Throttleドロー数（ジェットのみ）
+
+## プレイの手順
+### プレイヤーターン
+- ウィングマンステップ（Wingman Step）※最初のターンには無し
+- 高度ステップ（Altitude Step）
+- リーダーステップ（Leader Step）
+- ディスカードステップ（Discard Step）
+- ドローステップ（Draw Step）
+### ファイナルステップ（Final Step）
+
+## ポジション
+- 追尾（Tailing）：Burst +3
+- 優勢（Adantaged）：Burst +1
+- 中立（Neutral）：非交戦（Unengaged）
+- 劣勢（Disadvantaged）
+- 被追尾（Tailed）
+
+## 高度変更
+- 高度を1レベル上げる または 下げる
+- 上昇なら手札1枚をディスカード
+- 降下なら手札1枚をドロー
+- 自エレメントが優勢、追尾なら中立に
+- 相手エレメントが追尾なら追従可能
+- 相手エレメントが優勢なら1枚ディスカードして追従可能
+- 追従を選ばなかった相手は中立に
+
+## 攻撃
+- 手番プレイヤーのみ
+- 攻撃目標は1機/ターン
+- 同一高度の敵のみ攻撃可
+- 交戦
+  - リーダーは交戦相手のリーダーを攻撃可
+  - ウィングマンは交戦相手のリーダー、ウィングマンを攻撃可
+- 非交戦
+  - 非交戦のエレメントを攻撃可
+  - 優勢状態、追尾状態の単独リーダーを攻撃可
+- 単独リーダーへの攻撃
+  - 反応失敗なら単独リーダーのポジションを普通に変更
+  - 中立の単独リーダーへの攻撃は普通に
+
+## バーティカルロール
+- 高度変更に追従する相手エレメントは追加1枚のディスカード
+- レスポンスがバーティカルロール、エースパイロットなら無効
+- 変更後の高度でそのターンは攻撃不可
+- 再度バーティカルロールして元の高度に戻れば攻撃可
+
+## Scissors
+- Attack: Become Advantaged when Disadvantaged
+- Response: Scissors, TIght Turn
+
+## Full Throttle
+- Attack: Improve Position by ONE toward Neutral if Disadvantaged or Tailed
+- Response: In My Sights, Maneuver, Full Throttle
+
+## Horsepower
+- リーダー
+  - Very High：-2 Horsepower（-1 Turbo）
+  - High：-1 Horsepower（NE Turbo）
+  - Medium：NE
+  - Low, Very Low：+1 Horsepower
+- ウィングマン
+  - Very High：-1 Offence & Defense（-1 Defense Turbo）
+  - High：-1 Defense（NE Turbo）
+  - Medium, Low, Very Low：NE
+
+## リーダー撃墜
+- 手札をディスカード
+- リーダーの損害を除去
+- ウィングマンの損害をリーダーに
+- クルー、フルスロットル、重砲をリーダーに
+- ウィングマンを脇へ
+- Perform -1枚をドロー
+
+## 雲 / Cloud
+- PositionをNeutralに
+- リーダーの上にCloudマーカー
+- リーダーの下に好きな高度マーカー（秘密裏）
+- ディスカード、ドロー、ウィングマンステップ無し
+- 攻撃されない
+- 次の高度ステップにCloudマーカー除去、高度開示
+
+## プレイ手順
+- 陣営、年月日、航空機を決める
+- 秘密裏に高度を決める
+- ディール（枚数=Perform）
+- 6ゲームターンをプレイ
+- 勝敗決定
+
+## プレイヤーターンの順番（毎ターン同じ）
+- 第1プレイヤーをランダムに決定
+- 第1プレイヤーが1エレメントを選んでプレイ
+- 第2プレイヤーが1エレメントを選んでプレイ
+- 交互に繰り返す
