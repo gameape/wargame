@@ -198,7 +198,7 @@
   - Sullivan（サリバン）
   - Knox's Artillery（ノックスの砲兵）
   - The Maryland 400（メリーランド400）
-- BRITISH & THEIR VILE HESSIANS（イギリス軍と野蛮なヘシアン）
+- BRITISH & THEIR VILE HESSIANS（イギリス軍とヘッセン傭兵）
   - Grant（グラント）
-  - Hassians（ヘシアン）
+  - Hassians（ヘッセン傭兵）
   - Clinton（クリントン）
