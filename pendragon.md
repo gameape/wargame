@@ -2,6 +2,9 @@
 
 （ルールが全然把握できないけれど、とりあえず書く）
 
+## コマ
+[![Pendragon](https://farm8.staticflickr.com/7863/39940450093_dbd0863aa7.jpg "Pendragon Pieces")](https://www.flickr.com/photos/22264692@N00/39940450093/)
+
 ## プレイの手順
 - カードを2枚開示
 - 1枚目をプレイ
