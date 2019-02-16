@@ -405,3 +405,675 @@
 - スコティ
   - 45<レナウン&4≦セツルメント
 - タイならキウィタス、ドゥクス、サクソンの順
+
+## カード
+
+
+### 01 Arthur  
+『アーサー』  
+#Momentum  
+Once and Future king:  
+ミリタリー・ドミナンスにシフト。現在の全カジュアルティをアベイラブルに。エポックになるまで、バトルで除去されたキャバルリーはカジュアルティではなくアベイラブルに。  
+
+Peronal Rivalry esscalate:  
+シビリアン・ドミナンスにシフト。コミタトゥスとキャバルリーの両方がいる1スペースで、それらすべてを除去（キャバルリーはカジュアルティに）。  
+
+### 02 Alans  
+『アラン人』  
+#Capability  
+Steppe warriors:  
+トレインでフォートごとに（1ではなく）2キャバルリーを置く  
+
+Nostalgia  
+いずれかの5キャバルリーを除去してカジュアルティへ。  
+
+### 03 Pelagius  
+『ペラギウス』  
+Positive religious doctrine:  
+4リージョンのそれぞれでプロスペリティをポピュレーションと等しくなるよう足す。  
+
+Heresy:  
+いずれか2スペースで非フォエデラティのキウィタスの全ピースを除去。  
+
+### 04 Stilicho  
+『スティリコ』  
+#Momentum  
+Magister Militum campaigns in Britain:  
+フラグメンテーションでない場合―ローマン・ルール&ミリタリー・ドミナンスにシフト。いずれかから10キャバルリーをAtrebates、Regni、and/or Cantiaciに置き、最大5フォートまたはタウンをカラのタウンサイトに（一度）置く。エポックになるまで、トレインとマスターで2倍のミリシアを置き、次のリカバリーでStilichoがマップに置いた数のキャバルリーをアベイラブルに除去。  
+
+### 05 Imperial Subsidies  
+『帝国の補助』  
+Ravenna support army in Britain:  
+ドゥクス（レッド）リソース+20  
+
+Constantinople trade diplomacy:  
+タウン及びDurotriges、Dumnonii、Silures、Demetaeのヒルフォートごとにブリトン（青）リソース+5。  
+ ウェルス+5（一度）  
+
+### 06 Uther  
+『ユーサー』  
+Ruthless warlord:  
+ミリタリー・ドミナンスにシフト。ヒルフォートとキャバルリーのある最大3リージョンを選ぶ。各リージョンで1ヒルフォートと1プロスペリティを除去し、5ブリトン・リソースまたはウェルスをドゥクス・リソースに移す。  
+
+Rebellion against tyrant:  
+シビリアン・ドミナンスにシフト。プレステージ-5。いずれか1リージョンでドゥクスの全ピースを対応するキウィタスのピースに置き換える（キャバルリーはカジュアルティへ）。  
+
+### 07 Cair Legion  
+『カイル・レギオン』  
+#Capability Sorties:  
+フィールド・バトルでキャバルリーはチャージ/アンブッシュの後でただちにフォートまたはタウンにウィズドローできる。  
+
+#Capability Garrisons:  
+ビルドでフォートを置くためにそのスペースの1キャバルリーをアベイラブルに除去しなければならない。  
+
+### 08 Classis Britannica  
+『クラシス・ブリタニカ』  
+#Momentum  
+Roman naval bases in Gaul active:  
+エポックになるまで、Oceanus Britannicusからのレイドはターゲット・スペースごとに（パトロールの後に）レイダー-4。  
+
+Roman fleet neglected:  
+すべてのシーをノー・パトロールに。  
+
+### 09 Swift Chargers  
+Sudden strike  
+2リージョンまでマーチのために払う。マーチするユニットが到着するいずれかの目的地でバトルする。敵のイベイド及びアンブッシュのダイスに-1。  
+
+Lucky raid:  
+1リージョンでフリーレイドの後、そこからフリーリターン。  
+
+### 10 Annona  
+『アノーナ』  
+#Momentum  
+Generosity:  
+次のアノーナをスキップ。  
+
+Saxons greedy:  
+エポック・ラウンド同様にサクソンのフォエデラティのアノーナを実施。  
+
+### 11 Barbarian Alliance  
+Warlord weds Barbarian princess:  
+1セツルメントとそのリージョンにいるそのネーションのウォーバンド（複数可）をいずれかのフォエデラティにする。プレステージ-2。  
+
+Treachery:  
+いずれかのウォーバンドまたはフォエデラティがいる1リージョンで、ドゥクスの全ピースを除去（キャバルリーはカジュアルティへ）。  
+
+### 12 Romanitas  
+Army integration:  
+1リージョンにおいて、1ネーションのフォエデラティの全ピースをいずれかのオフ・マップのドゥクスのピース置き換え（ウォーバンドをキャバルリー、セツルメントをフォート）  
+
+Barbarian roots:  
+1リージョンにおいて、各キャバルリーをいずれかの1ウォーバンドに、各フォートを1セツルメントに置き換え（キャバルリーはカジュアルティへ）  
+
+### 13 Cunedda  
+『キネダ』  
+Votadini warlord moves to Guynedd:  
+Votadiniから1ヒルフォートと2キウィタスユニットを除去。Ordovicesに1ヒルフォートと4キウィタスユニットを置く。  
+
+Invested to Guwynedd:  
+Ordovicesにフォエデラティのスコティの3ウォーバンドとスコティの1セツルメントを置く。  
+
+### 14 Aneirin  
+『アネイリン』  
+#Momentum  
+Prince of Bards:  
+エポックになるまで、ドゥクスはバトルの勝利ごとに（+1ではなく）プレステージ+2  
+
+#Momentum  
+Gifted bard:  
+エポックになるまで、スコティはバトルの勝利ごとに（+1ではなく）レナウン+2  
+
+### 15 Fickle Weather  
+Good harvest  
+いずれか6リージョンのそれぞれにプロスペリティ+1  
+
+Drought:  
+いずれか4リージョンのそれぞれからプロペリティ-1  
+
+### 16 Dux Bellorum  
+『ドゥクス・ベロルム』  
+#Momentum  
+Battle leader  
+エポックになるまで、ドゥクスと同じ側のミリシアはフィールド・バトルで半減しない。ブリトンのフリーマーチ、インターセプト（ドゥクスなら）、バトルを今。  
+
+#Momentum  
+Hated strongman:  
+エポックになるまで、ミリシアとドゥクスは同じ側でバトルできない。  
+
+### 17 Recruits  
+Youth flock to army:  
+アベイラブルの4キャバルリーをフォートに置く、スペースごとに2キャバルリーを超えてはならない。  
+
+Deserter:  
+フォートのない3スペースまでを選ぶ。各スペースのキャバルリーの半分（切り上げ）をアベイラブルへ。  
+
+### 18 The Irish Shore  
+Irish Sea defenses:  
+Oceanus Hibernicusをパトロールドにセット。  
+
+Local sympathies:  
+Oceanus Hibernicusからのスコティのレイドは各ターゲットスペースに追加レイダー+1。  
+
+### 19 Surrey  
+『サリー』  
+Hired Muscle:  
+CatuvellauniかCantiaciにサクソンのフォエデラティ―3ウォーバンドとそこになければ1セツルメント―を置く。  
+
+Tribal War:  
+CatuvellauniとCantiaciから2プロスペリティずつと合計5ピースを除去―リージョンには1ファクションのストロングホールドを残す。  
+
+### 20 Thames  
+『テムズ』  
+Hired muscle:  
+CatuvellauniまたはAtrebatesにサクソンのフォエデラティ―3ウォーバンドとそこになければ1セツルメント―を置く。  
+
+Tribal War:  
+CatuvellauniとAtrebatesから2プロスペリティずつと合計5ピースを除去―リージョンには1ファクションのストロングホールドを残す。  
+
+### 21 Camelot  
+『キャメロット』  
+#Capability  
+Modern upgrades:  
+3コミタトゥスをキウィタスのアベイラブルに今追加。ヒルフォートは（1/2ではなく）1のエスカレード・ディフェンスを持つ。  
+
+#Capability  
+Life of laxury:  
+アップキープでキウィタスはヒルフォートごとに1リソースを払うか除去。  
+
+### 22 Ambrosius Aurelianus  
+『アンブロシウス・アウレリアヌス』  
+Aristocratic champion:  
+ドミナンスをどちらか好きな方にシフト。4コミタトゥスをアベイラブルに追加。キウィタスはブリトン・コントロールの1スペースにアベイラブルの2コミタトゥスを置く。  
+
+Trap sprung:  
+1リージョンでバトル。フィールド・バトルはトラップでストライク。  
+
+### 23 St Germanus  
+『聖ゲルマヌス』  
+Alleluia victory:  
+キウィタスはフリーのレインフォースにレインフォースのダイスを+4で、1スペースで（一度）バーバリアンにバトルできる。  
+
+Papal Oversight:  
+キウィタスは10リソース払う。  
+
+### 24 Migrants  
+Briton flee foreign rule:  
+ブリトン・コントロールではない1リージョンのポピュレーション-1で、ブリトン・コントロールの1リージョンのポピュレーション+1（レフュジーマーカーの追加なし）。  
+
+Saxons seek new land:  
+サクソン・コントロールの1リージョンでポピュレーション+1  
+
+### 25 Sea Trade  
+『海洋交易』  
+High-status goods:  
+ウェルス+10、またはプレステージ+3、またはサクソンまたはスコティのレナウン+5  
+
+### 26 Detra  
+『デイラ』  
+Hired muscle:  
+TextoverdiまたはParisiにサクソンのフォエデラティ―3ウォーバンドとそこになければ1セツルメント―を置く。  
+
+Tribal War:  
+TextoverdiとParisiから2プロスペリティずつと合計5ピースを除去―リージョンには1ファクションのストロングホールドを残す。  
+
+### 27 Gratia  
+『グラティア』  
+#Capability  
+Bribery:  
+シェイデッドイベントのTribal Warをプレイできない。アップキープごとに、キウィタスは10リソース払うかGratiaをディスカードする。  
+
+Widespread corruption:  
+ブリトン・リソース（ウェルスではない）-20  
+
+### 28 Mons Badonicus  
+『モン・バドニカス』  
+#Capability  
+Fortification:  
+3コミタトゥスをキウィタスのアベイラブルに今追加。ヒルフォートのあるフィールド・バトルでミリシアは半減しない。  
+
+#Capability  
+Outdated defense:  
+アンシェイデッドのCamelotでない限り、ヒルフォートのギャリソンは０。  
+
+### 29 Corinium  
+『コリニウム』  
+Civic spending:  
+キウィタスはブリトンのピースがあるところに1タウンを置ける。  
+
+Crumbling walls:  
+ストロングホールドにいる敵に、そのストロングホールドに対してクードゥマンのダイスが「1」だったものとしてバトル。  
+
+### 30 Groans of the Britons  
+Appeal to Aetius:  
+シビリアン・ドミナンスのローマン・ルールにシフトし、オフマップの10キャバルリーをAtrebates、Regni、Cantiaciのいずれか（複数可）に置く。  
+
+Roman administration crumbles:  
+ローマン・ルールであればオートノミーにシフト（ドミナンスは変えず）。  
+
+### 31 Waelcyrge  
+Valkyries carry away famous chief:  
+1ファクションのレナウン-10、最低でも5。  
+
+Choosers of the slain:  
+サクソンのウォーバンドのいる1タウンを選ぶ。そのタウンを除去し、1レフュジーマーカーをキウィタスのアベイラブルボックスに。  
+
+### 32 Tintagel  
+Royal seat:  
+Oceanus Hibernicus沿岸のヒルズの1リージョンに1ヒルフォート、2ミリシア、2コミタトゥスを置く。  
+
+Irish band seizes promontory fort:  
+スコティがOceanus Hibernicus沿岸のヒルズの1リージョンに1セツルメント、3ウォーバンドを置く。  
+
+### 33 With the Cross on his Shoulders  
+#Momentum  
+Christian zeal:  
+エポックになるまで、同じ側で戦っている非フォエデラティのドゥクスとキウィタスのトループは、それぞれ追加1/2ロスを与える。フリーマーチとバトルを今。  
+
+Brothers in faith:  
+エポックになるまで、キウィタスとスコッティのバトルは無し。  
+
+### 34 Aquae Sulis  
+Hired muscle:  
+Atrebatesにサクソンのフォエデラティ―3ウォーバンドとそこになければ1セツルメント―を置く。  
+
+Tribal War:  
+DobunniとAtrebatesから2プロスペリティずつと合計5ピースを除去―リージョンには1ファクションのストロングホールドを残す。  
+
+メモ：Dobunniはシェイデッドだけ  
+
+### 35 De Excidio Britanniae  
+『ブリトン人の没落』  
+Christians flee:  
+非フォエデラティのセツルメントがある2リージョンでポピュレーション-1。  
+
+Slaughter of Weala:  
+サクソンのウォーバンドがいる3リージョンでポピュレーション-1。1レフュジーマーカーだけアベイラブルに。ミリタリー・ドミナンスにシフト。  
+
+### 36 St Patricius  
+『聖パトリキウス』  
+#Capability  
+Evangelist of Ireland:  
+すべてのランサムのダイス-1。  
+
+#Capability  
+Highborn Briton hostage:  
+すべてのランサムのダイス+1。  
+
+### 37 Bryneich  
+『バーシニア』  
+Pictish ship beaten back:  
+Oceanus Septentrionalisをパトロールドにセット。  
+
+#Capability  
+Bernicia:  
+サクソンのレイドは常にOceanus Septentrionalisを使えるが、Germanicusのパトロール（もしあれば）でも減らされる。サクソンのフリーレイドを今。  
+
+### 38 Rising Seas  
+#Momentum  
+Better times at home:  
+ブリトンのフリーインターセプト（ドゥクスなら）またはバトルを今。エポックになるまで、サクソンのレイドは各スペースでレイダー-2（パトロール適用後）。  
+
+Flooded homeland:  
+エポックになるまで、サクソンのレイドはターゲットスペースごとにレイダー+2。サクソンのフリーレイドを今。  
+
+### 39 Hengest  
+『ヘンジスト』  
+Briton turn on barbarian mercenaries:  
+ブリトン・コントロールの1リージョンで、1ネーションかつカラーのフォエデラティの全ピースを除去。  
+
+Barbarian strongman takes over:  
+フォエデラティとキウィタスのピースがいる1リージョンで、全ミリシアと1カラーの全フォエデラティマーカーを除去。  
+
+### 40 Gewisse  
+『ゲウィセ』  
+Hired muscle:  
+Catuvellauniにサクソンのフォエデラティ―3ウォーバンドとそこになければ1セツルメント―を置く。  
+
+Tribal War:  
+DobunniとCatuvellauniから2プロスペリティずつと合計5ピースを除去―リージョンには1ファクションのストロングホールドを残す。  
+
+### 41 Feeding the Ravens  
+Winter campaign:  
+1リージョンへのマーチに2倍払う。マーチするユニットのいずれかが到着したらそこでのバトル。フィールド・バトルはトラップでストライクかつ敵はイベイドなし。  
+
+#Momentum  
+Bravery:  
+エポックになるまで、あなたのトループはストロングホールドにアサルトするとき2倍のロスを吸収できる。フリーバトルを今。  
+
+### 42 Anderida  
+『アンデリダ』  
+Hired muscle:  
+RegniまたはCantiaciにサクソンのフォエデラティ―3ウォーバンドとそこになければ1セツルメント―を置く。  
+
+Tribal War:  
+RegniとCantiaciから2プロスペリティずつと合計5ピースを除去―リージョンには1ファクションのストロングホールドを残す。  
+
+### 43 Omens  
+『オーメン』  
+このカードを取る  
+他人が宣言したフィールド・バトルまたはアサルトの間にディスカードし、あなたが選んだユニット（複数可）を半減させる。または、あなたがエリジブルであれば、ファースト・エリジブルのファクションが行動する前にディスカードし、あなた自身が現在のカードのファースト・エリジブルになる。  
+
+### Card #43 “Omens” (Clarification):  
+This Event may only be used to modify the faction eligibility order on a regular Event Card (Events #1 to #72), never on a Pivotal Event or Epoch Event. Should an Event card with its faction eligibility order modified by the play of Omens be trumped by a Pivotal Event, it retains its modified eligibility order as it gets postponed.  
+
+### 44 Lindsey  
+『リンジー』  
+Hired muscle:  
+ParisiまたはCorieltauviにサクソンのフォエデラティ―3ウォーバンドとそこになければ1セツルメント―を置く。  
+
+Tribal War:  
+ParisiとCorieltauviから2プロスペリティずつと合計5ピースを除去―リージョンには1ファクションのストロングホールドを残す。  
+
+### 45 Thanet  
+『サネット』  
+Inhospitable swamp  
+Cantiaciのウォーバンドの半分（切り上げ）を除去。  
+
+#Capability  
+Taking root:  
+あなたのセツルは（1ではなく）最大2スペース。  
+
+### Card #45 “Thanet”, Shaded Event (Clarification):  
+When Settling in two spaces, a given Raider may only provide a roll for 1 Settle space, even if in a space adjacent to both Settle spaces (best to place the eligible Returning Raiders in the Settle space they will roll for).  
+
+### 46 Dubglas River  
+『ドゥブグラス川』  
+#Capability  
+Riverine fight:  
+フェンズはサクソンのホーム・テレーンではない。  
+
+#Capability  
+Slosh:  
+フェンズにおいて、キャバルリーはフィールド・バトルのストライクとロスが半減。  
+
+### 47 Cerdic  
+『チェルディッチ』  
+Foederati adopt host culture:  
+ブリトン・コントロールの1リージョンで、1ネーションかつカラーの全フォエデラティを置き換える―ストロングホールドをヒルフォートに、トループをコミタトゥス and/or ミリシアに。  
+
+Britons adopt barbarian culture:  
+フォエデラティとキウィタスのストロングホールドの両方がある1リージョンで、フォエデラティマーカーの1ネーションを解放し、キウィタスの全ストロングホールドとトループをそのネーションの対応するピースに置き換える。  
+
+### 48 Shades of Boudicca  
+『ブーディカの陰』  
+Hired muscle:  
+Trinovantesにサクソンのフォエデラティ―3ウォーバンドとそこになければ1セツルメント―を置く。  
+
+Tribal War:  
+IceniとTrinovantesから2プロスペリティずつと合計5ピースを除去―リージョンには1ファクションのストロングホールドを残す。  
+
+### 49 Vortigern  
+『ヴォーティガン』  
+Briton warlord welcomes mercenaries:  
+Cantiaciのヒルフォードサイト（Rutupiae）にサクソンのフォエデラティ―1セツルメントと6ウォーバンド―を置く。  
+
+Saxon chief conquers Kent:  
+Ciantiaciからブリトンのトループを2個残して全部除去（キャバルリーはカジュアルティーに）。サクソンはCantiaciのヒルフォードサイト（Rutupiae）に1セツルメントと6ウォーバンド―を置く。  
+
+### 50 Calleva Atrebatum  
+『カレウァ・アトレバトゥム』  
+Cities boost local economy:  
+タウンのある2リージョンごとにプロスペリティ+2。  
+
+Ruined countryside starves city:  
+0プロスペリティの1リージョンから1タウンを除去。  
+
+### 51 Isle of Avalon  
+Patriotic forever  
+5キャバルリーをカジュアルティからアベイラブルへ。  
+
+War weariness:  
+5キャバルリーをカジュアルティからアウト・オブ・プレイへ。  
+
+### 52 Mistborn  
+『ミストボーン』  
+Local effort:  
+ブリトンはフリートレインまたはマスターを実施して、1リージョンにトループ（のみ）を置ける。  
+
+Out of the sea mists:  
+バーバリアンは1リージョンに（通常のコストで）上陸できる。付随するいずれのフィールド・バトルでもこれらのレイダーはトラップの間にストライクする。  
+
+### 53 Brittany  
+『ブリタニー』  
+Briton flee foreign rules:  
+サクソンまたはスコティ・コントロールの2リージョンでポピュレーション-1。  
+
+Britons seek security across the sea:  
+Oceanus Britannicus沿岸の1リージョンでポピュレーション-1。レフュジーマーカーの追加なし。  
+
+### 54 The End of the World  
+Alaric sacks Rome:  
+直ちにインペリウム・フェイズを（ホーディングなし）ブリトン・コントロールに-5のペナルティ、トータル・プロスペリティ+プレステージに-15のペナルティで実施。  
+
+### 55 Niall's Raid  
+#Momentum  
+Storms:  
+Niall's Raidを1シーに置く。エポックになるまで、そこからのレイドはスペースごとにレイダー-3（パトロール適用後）。  
+
+#Capability  
+Daring king:  
+スコティはOceanus Britannicusからレイドできる。  
+
+### 56 Celyddon Coed  
+#Capability  
+Caledonian forest:  
+ヒルズはスコティのホーム・テレーンではない。  
+
+#Capability  
+Forest ambush:  
+スコティのバトルコマンドにおいて、ヒルズにいるスコティのウォーバンドはトラップの間にストライクする。  
+
+### 57 Myrddin  
+『マルジン』  
+Merlin, enchanter of the Isle of Britain:  
+コマンドとフィートを実行する（通常のコストで）。次のカードでもエリジブルのまま。  
+
+### 58 Ard Ri  
+『アード・リー』  
+#Momentum  
+Ireland in chaos:  
+ブリトンのフリーインターセプト（ドゥクスなら）またはバトルを今。エポックになるまで、スコティのレイドは各ターゲットスペースでレイダー-2（パトロール適用後）  
+
+#Momentum  
+High King in Tara:  
+エポックになるまで、少しのレイドはターゲットスペースごとにレイダー+2を追加して置く。スコティのフリーレイドを今。  
+
+### 59 Dal Riada  
+『ダル・リアダ』  
+#Capability  
+Scot-Pict war:  
+スコティのNovantae、Votadini及びCarvetiiへのレイドはそれぞれレイダー-３（フォートの後で）  
+
+#Capability  
+Kingdom across the sea:  
+スコティはアベイラブルの1セツルメントをこのカードの上に置き、勝利判定時にマップ上のセツルメントとして数える。  
+
+### 60 Mariners by Sea  
+#Capability  
+Imperial ships:  
+ドゥクスのマーチまたはインターセプトごとに一度、ドゥクスのトループは1沿岸スペースから別の沿岸スペースに移動できる。  
+
+Limited assets:  
+1パトロールドマーカーを1ノー・パトロールに裏返し、1ノー・パトロールマーカーをパトロールドに裏返す。1バーバリアンがフリーレイドを今できる（一度）。  
+
+### 61 Monasteries  
+『モナスタリーズ』  
+Riches of the monks:  
+ウェルス+10。  
+
+Appeal of monastic life:  
+サクソンでもスコティ・コントロールでもない2リージョンのそれぞれでポピュレーション-1。  
+
+### 62 Dyfed  
+『ダヴェッド』  
+Shared culture:  
+Demetaeにあるスコティの1セツルメントとスコティの全ウォーバンドを対応するキウィタスのピースに置き換える。  
+
+Irish dynasty:  
+スコティはDemataeに4ウォーバンドと1セツルメントを置く。  
+
+### 63 Evangelization  
+『福音伝道』  
+#Capability  
+Thou shalt not steal:  
+スコティのレイドのコストはターゲットごとに1レナウンで1D4、2レナウンで2D4。  
+
+Christians blind ties across Irish Sea:  
+Oceanus Hibernicus沿岸の1リージョンで、スコティは1ヒルフォートを1セツルメントに、キウィタスのトループの半分（切り上げ）をウォーバンドと置き換える。  
+
+### 64 Devastation  
+『荒廃』  
+#Momentum  
+Dysentery:  
+エポックになるまで、自らのファクション及びネーションのセツルメントがないウォーバンドはバトルで半減。  
+
+#Capability  
+Empty granaries:  
+0プロスペリティのリージョンにあるストロングホールドはホールディング・キャパシティが半減（クードゥマンのダイスとシージを除く）  
+
+### 65 Acculturation  
+『文化変容』  
+Foederati merge with host culture:  
+ブリトン・コントロールの1リージョンで、1ネーションとカラーの全フォエデラティを―ストロングホールドはヒルフォートと、トループはコミタトゥス and/or ミリシアと―置き換える。  
+
+Britons adopt barbarian culture:  
+フォエデラティとキウィタスのストロングホールドの両方がある1リージョンで、フォエデラティマーカーの1ネーションを解放し、キウィタスの全ストロングホールドとトループをそのネーションの対応するピースに置き換える。  
+
+### 66 Rival Caesars  
+Leadership struggle:  
+バーバリアンがコントロールする1リージョンから、1バーバリアンのウォーバンドの半分（切り捨て）を除去。  
+
+Roman original sin:  
+ドゥクスと隣接する2リージョンそれぞれからドゥクスのピースの半分（切り上げ、フォートは最後に、キャバルリーはカジュアルティーに）を除去。  
+
+### 67 Dogs and Wolves  
+#Capability  
+Naval defense entrusted to Foederati:  
+最大2パトロールド/ノー・パトロールマーカーを今裏返す。  
+パトロールドシーからのレイドはフォートではなくフォエデラティのセツルメントが削減する。アップキープにドゥクスはフォートごとに1/2リソースだけ払う（切り上げ）。  
+
+### 68 Niall Noigiallach  
+『9人の人質のニール』  
+#Capability  
+Succession troubles:  
+スコティのレイドをスペースごとにレイダー-1（パトロール適用後）。  
+
+Coordination:  
+スコティのレイドはNiall Noigiallachボックス（レイダーはここに置く）をターゲットにでき、ここから他のターゲットスペースに追加のレイダーとして足すことができる。  
+
+### Card #68 “Niall Noigiallach”, Unshaded Event text:  
+The number somehow fell through the cracks… the text should read: “Reduce Scotti Raids by -1 Raider each space (after Patrol).”  
+
+### 69 The Wall  
+『長城』  
+#Capability  
+Limitanzi hinder infiltration:  
+シーから来ていないレイドはターゲットスペースごとにレイダー-2に削減。  
+
+#Capability  
+Abandoned line:  
+カレドニアからのレイダー配置はフォートを無視。  
+
+### 70 Ruin of the Villas  
+Landed aristocracy seek safety of cities  
+ブリトン・コントロールでカラのタウンサイトがあるリージョンで、キウィタスは1タウンを置いてポピュレーション-1にできる。  
+
+#Momentum  
+Easy pickings:  
+エポックになるまで、あなたがレイダーを置いたブリトン・コントロールのリージョンそれぞれのレイドで追加1プランダーを取り、ウェルス-1。  
+
+### 71 Barbarians  
+Tribal War:  
+サクソンの5ピース―ウォーバンドの後にストロングホールド―をサクソン・コントロールの1リージョンから除去。  
+
+Pirate haven:  
+スコティはOceanus HilbernicusまたはSeptentrionalis沿岸の1リージョンのからのヒルフォートサイトに1セツルメントと2ウォーバンドを置く。  
+
+### 72 Venta Silurum  
+『ウェンタ・シルルム』  
+Cities spread profit:  
+タウンのある2リージョンのそれぞれに2プロスペリティを追加。  
+
+Traitor inside the walls  
+ストロングホールドにいる敵に、そのストロングホールドに対してクードゥマンのダイスが「1」だったものとしてバトル。  
+
+### 73 Conspiratio Barbarica  
+『コンスピラティオ・バルバリカ』  
+#スコティのピボタル・イベント  
+Dual onslaught:  
+スコティが5ターゲットにフリーレイド―3D4をふる―フィートあり。その後、サクソンが4ターゲットにフィートありのフリーレイド（3d4をふる）。実施した場合、次のカードの間はインエリジブル。  
+
+#Capability  
+その後、Oceanus Septentrionalisからのスコティのレイドは不可。  
+ピボタルをトランプ可  
+
+### 74 Adventus Saxonum  
+『アドウェントゥス・サクソヌム』  
+#サクソンのピボタル・イベント  
+#サクソンのレナウンが15以上ならプレイ  
+Revolt:  
+最大3リージョンで全サクソンのフォエデラティマーカーを除去。そのリージョンのそれぞれで1プロスペリティを除去し、ブリトンに対してシールド・ウォールを伴うバトル。  
+ピボタルをトランプ可  
+
+### 75 Coel Hen  
+『シール・ヘン』  
+#ドゥクスのピボタル・イベント  
+#プレステージが5以上かつ非ローマン・ルールならプレイ  
+Old King Cole:  
+非フラグメンテーションならプレステージを4で割る（切り上げ）。その後、インペリウムはフラグメンテーションに。ドゥクス（レッド）リソース+10。アウト・オブ・プレイのキャバルリーは5個残してカジュアルティへ。  
+ピボタルをトランプ可  
+
+### 76 Cymbrogi  
+#キウィタスのピボタル・イベント  
+#非ローマン・ルールならプレイ  
+Sword brothers:  
+9コミタトゥスをアベイラブルに追加。ブリトン・コントロールの5ヒルズリージョンごとにからのヒルフォートサイトに1ヒルフォートと1コミタトゥスを置く。シビリアン・ドミナンスにシフト。  
+
+#Capability  
+ヒルズはキウィタスのホーム・テレーンに。キウィタスはタウンではなくヒルフォートからエポック・ラウンドのレベニューを得る。  
+
+### 77 Magnus Maximus  
+『マグヌス・マクシムス』  
+#EPOCH Early  
+#フラグメンテーションなら無し  
+Bid for the purple:  
+望むならば、ドゥクスは3から5キャバルリーを除去―1個はカジュアルティへ、他はアウト・オブ・プレイへ―するごとに3リソースを払う。1D6をふる：≦除去されたキャバルリーならブリトン・リソース+20でローマン・ルールかつミリタリー・ドミナンスにセット（既にそうであったならプレステージ+5）。そうでない、または（ミリタリー・ドミナンス下に限り）何も除去していなかったなら、プレステージ-8。  
+
+### 78 Constantine III  
+『コンスタンティヌス3世』  
+#EPOCH Early  
+#フラグメンテーションなら無し  
+Bid for the purple  
+望むならば、ドゥクスは2から4キャバルリーを除去―1個はカジュアルティへ、他はアウト・オブ・プレイへ―するごとに3リソースを払う。1D6が≦除去されたキャバルリーならブリトン・リソース-15、ローマン・ルールかつミリタリー・ドミナンスにセット（既にそうであったならプレステージ+5）。そうでない、または（ミリタリー・ドミナンス下に限り）何も除去していなかったなら、プレステージ-8。  
+
+### 79 Rescript of Honorius  
+『ホノリウスの勅令』  
+#EPOCH Early  
+フラグメンテーションなら無し  
+Emperor tells Britons to see to their own defense:  
+ローマン・ルールであればミリタリー・ドミナンスをシビリアン・ドミナンスにシフトし、既にそうであったならミリタリー・ドミナンスのオートノミーに。その後、ドゥクスは0以上のリソースを払う。キウィタスはウェルスから追加できる。マップ上の7キャバルリーごと（切り上げ）に1D6して合計し、払った合計より少ない分だけドゥクスはキャバルリーを（アベイラブルに）除去。  
+
+### 80 Cutting the Ties  
+#EPOCH Early  
+フラグメンテーションなら無し  
+Briton expel Roman magistrates:  
+キウィタスはシビリアン・ドミナンスに、もし既にそうであるならばオートノミーにシフトしてブリトン・コントロールのリージョン（複数可）に合計10ミリシアを置ける。その後、ドゥクスは0以上のリソースを払い、キウィタスはウェルスから追加できる。マップ上の7キャバルリーごと（切り上げ）に1D6して合計し、払った合計より少ない分だけドゥクスはキャバルリーを（アベイラブルに）除去。  
+
+### 81 Tears of Epona  
+#EPOCH Late  
+Climate change renders marginal land useless:  
+Textoverdi、Deceangli、Iceni、及びDurotrigesのポピュレーション-1（既に0なら0のまま）。（レフュジーマーカーの追加なし）  
+#Capability  
+これらのリージョンに書かれている人口は「1」として扱う。  
+
+### 82 Rhiotamus  
+『リオタムス』  
+#EPOCH Late  
+Continental adventure:  
+ドゥクスはマップ上の最大4キャバルリーと、同数のドゥクス（レッド）フォエデラティのウォーバンド選べる。ドゥクスが選んだら1D6を2倍して、≦選択したユニット数であればプレステージ+5、そうでなければプレステージ-5、かつ選択したトループの半分（切り上げ）を除去（キャバルリーはカジュアルティへ）。失敗かつミリタリー・ドミナンスであればシビリアン・ドミナンスにシフト。  
+
+### 83 Pendragon  
+『ペンドラゴン』  
+#EPOCH Late  
+Punitive expedition:  
+ドゥクスとキウィタスで最高のビッドをした方（タイならドゥクス）が10キャバルリー、コミタトゥス、and/or フォエデラティのウォーバンド―いずれも所有者が同意した場合のみ―を選んで、ユニットごとに2リソース払う。決定後に1D6を2倍して、≦選択したユニット数であれば払った者がサクソンかスコティを選んでレナウン-10、参加ユニットそれぞれに1プランダーを置き、ミリタリーまたはシビリアン・ドミナンスにシフトできる。失敗した場合、選択したユニット（キャバルリーまたはコミタトゥス）の半分（切り上げ）を除去。
