@@ -9,6 +9,8 @@
 - オーガニック・トラック：multi-unit formation（ストライプ）固有の輸送ポイントユニット
 - 航空機：空対空-Barrage、黄丸=タイプ、黃四角=レンジ、nT=輸送キャパシティ
 - ステップロス：ステップ=RE、1以上=攻撃半減、半分以上=防御半減
+- Attack-Capable：額面戦闘力あり（0でもOK、カッコなし）、Strat or 予備モードではない
+-	independent：malti-unit formationでもmulti-stepでもないユニット（3.2f）
 
 ## プレイの手順
 - プレターンフェイズ
@@ -45,7 +47,8 @@
   - 補給家の友軍まで直線15ヘクス以内（EZOC無視）
 
 ## 移動
-- 燃料補給コスト：1SP/Formation、1SP/HQ、1T/Single-Unit
+- 移動開始時に移動/戦闘/Reserve/Stratモードを選択、コストなし
+- 燃料補給コスト：1SP/Formation、1SP/HQ（independent unitのみ）、1T/Single-Unit
 - 最低1ヘクス移動あり、A→Bの移動不可ならB→Aも不可 
 - オーバーラン：進入コスト≦3MPのヘクスに3MP払って実施、道/橋使用不可、戦闘後前進必須、Exploitなし
 - 鉄道移動：1RailCap = 1SP or 1RE、Trainbusting = x2、multi-track = 1/2
@@ -65,11 +68,6 @@
 - 大隊=1/2RE、Repl 中隊=1/4RE、-1RE/ステップロス
 - 超過分は所有プレイヤーが除去、増援フェイズは超過OK
 - ヘッジホッグ、トップにある戦闘モードのAttack-Capableユニット or 航空機は見てよい
-
-## モードなど
-- 移動開始時に移動/戦闘/Reserve/Stratモードを選択、コストなし
-- Attack-Capable：額面戦闘力あり（0でもOK、カッコなし）、Strat or 予備モードではない
--	independent：malti-unit formationでもmulti-stepでもないユニット（3.2f）
 
 ## 地形効果
 - 地形複数のヘクス：移動はコスト最多の1地形を使用、戦闘は防御側選択、CityとVillageのはみ出しは無視
