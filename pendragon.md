@@ -848,6 +848,7 @@ Ruined countryside starves city:
 0プロスペリティの1リージョンから1タウンを除去。  
 
 ### 51 Isle of Avalon  
+『アバロン島』  
 Patriotic forever  
 5キャバルリーをカジュアルティからアベイラブルへ。  
 
@@ -871,10 +872,12 @@ Britons seek security across the sea:
 Oceanus Britannicus沿岸の1リージョンでポピュレーション-1。レフュジーマーカーの追加なし。  
 
 ### 54 The End of the World  
-Alaric sacks Rome:  
+『この世の終わり』  
+アラリックのローマ略奪：  
 直ちにインペリウム・フェイズを（ホーディングなし）ブリトン・コントロールに-5のペナルティ、トータル・プロスペリティ+プレステージに-15のペナルティで実施。  
 
 ### 55 Niall's Raid  
+『ニールの襲撃』  
 #Momentum  
 Storms:  
 Niall's Raidを1シーに置く。エポックになるまで、そこからのレイドはスペースごとにレイダー-3（パトロール適用後）。  
@@ -894,7 +897,7 @@ Forest ambush:
 
 ### 57 Myrddin  
 『マルジン』  
-Merlin, enchanter of the Isle of Britain:  
+ブリテン島の魔術師、マーリン：  
 コマンドとフィートを実行する（通常のコストで）。次のカードでもエリジブルのまま。  
 
 ### 58 Ard Ri  
@@ -1089,6 +1092,7 @@ Briton expel Roman magistrates:
 キウィタスはシビリアン・ドミナンスに、もし既にそうであるならばオートノミーにシフトしてブリトン・コントロールのリージョン（複数可）に合計10ミリシアを置ける。その後、ドゥクスは0以上のリソースを払い、キウィタスはウェルスから追加できる。マップ上の7キャバルリーごと（切り上げ）に1D6して合計し、払った合計より少ない分だけドゥクスはキャバルリーを（アベイラブルに）除去。  
 
 ### 81 Tears of Epona  
+『エポナの涙』  
 #EPOCH Late  
 Climate change renders marginal land useless:  
 Textoverdi、Deceangli、Iceni、及びDurotrigesのポピュレーション-1（既に0なら0のまま）。（レフュジーマーカーの追加なし）  
