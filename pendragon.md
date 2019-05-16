@@ -439,8 +439,10 @@
 ### 01 Arthur  
 『アーサー』  
 #Momentum  
-Once and Future king:  
+Once and Future king: 
 ミリタリー・ドミナンスにシフト。現在の全カジュアルティをアベイラブルに。エポックになるまで、バトルで除去されたキャバルリーはカジュアルティではなくアベイラブルに。  
+
+- 付記：「The Once and Future King」というファンタジー小説（テレンス・ハンベリー・ホワイト）がある
 
 Peronal Rivalry esscalate:  
 シビリアン・ドミナンスにシフト。コミタトゥスとキャバルリーの両方がいる1スペースで、それらすべてを除去（キャバルリーはカジュアルティに）。  
@@ -456,16 +458,16 @@ Nostalgia
 
 ### 03 Pelagius  
 『ペラギウス』  
-Positive religious doctrine:  
+積極的宗教ドクトリン:  
 4リージョンのそれぞれでプロスペリティをポピュレーションと等しくなるよう足す。  
 
-Heresy:  
+邪教:  
 いずれか2スペースで非フォエデラティのキウィタスの全ピースを除去。  
 
 ### 04 Stilicho  
 『スティリコ』  
 #Momentum  
-Magister Militum campaigns in Britain:  
+マギステル・ミリトゥムのブリテン戦役:  
 フラグメンテーションでない場合―ローマン・ルール&ミリタリー・ドミナンスにシフト。いずれかから10キャバルリーをAtrebates、Regni、and/or Cantiaciに置き、最大5フォートまたはタウンをカラのタウンサイトに（一度）置く。エポックになるまで、トレインとマスターで2倍のミリシアを置き、次のリカバリーでStilichoがマップに置いた数のキャバルリーをアベイラブルに除去。  
 
 ### 05 Imperial Subsidies  
@@ -487,10 +489,12 @@ Rebellion against tyrant:
 
 ### 07 Cair Legion  
 『カイル・レギオン』  
-#Capability Sorties:  
+#Capability  
+Sorties:  
 フィールド・バトルでキャバルリーはチャージ/アンブッシュの後でただちにフォートまたはタウンにウィズドローできる。  
 
-#Capability Garrisons:  
+#Capability  
+Garrisons:  
 ビルドでフォートを置くためにそのスペースの1キャバルリーをアベイラブルに除去しなければならない。  
 
 ### 08 Classis Britannica  
@@ -501,6 +505,8 @@ Roman naval bases in Gaul active:
 
 Roman fleet neglected:  
 すべてのシーをノー・パトロールに。  
+
+- 付記：クラシス・ブリタニカ = ブリテンにおけるローマの海軍
 
 ### 09 Swift Chargers  
 Sudden strike  
@@ -517,6 +523,8 @@ Generosity:
 
 Saxons greedy:  
 エポック・ラウンド同様にサクソンのフォエデラティのアノーナを実施。  
+
+- 付記：アノーナ =  ローマへの穀物供給の女神 yeary produce 年次生産 
 
 ### 11 Barbarian Alliance  
 Warlord weds Barbarian princess:  
@@ -619,7 +627,7 @@ Trap sprung:
 
 ### 23 St Germanus  
 『聖ゲルマヌス』  
-Alleluia victory:  
+ハレルヤの勝利:  
 キウィタスはフリーのレインフォースにレインフォースのダイスを+4で、1スペースで（一度）バーバリアンにバトルできる。  
 
 Papal Oversight:  
@@ -948,7 +956,7 @@ Irish dynasty:
 ### 63 Evangelization  
 『福音伝道』  
 #Capability  
-Thou shalt not steal:  
+汝、盗むなかれ:  
 スコティのレイドのコストはターゲットごとに1レナウンで1D4、2レナウンで2D4。  
 
 Christians blind ties across Irish Sea:  
@@ -1052,7 +1060,7 @@ Revolt:
 『シール・ヘン』  
 #ドゥクスのピボタル・イベント  
 #プレステージが5以上かつ非ローマン・ルールならプレイ  
-Old King Cole:  
+コオル老王:  
 非フラグメンテーションならプレステージを4で割る（切り上げ）。その後、インペリウムはフラグメンテーションに。ドゥクス（レッド）リソース+10。アウト・オブ・プレイのキャバルリーは5個残してカジュアルティへ。  
 ピボタルをトランプ可  
 
@@ -1060,7 +1068,7 @@ Old King Cole:
 #キウィタスのピボタル・イベント  
 #非ローマン・ルールならプレイ  
 Sword brothers:  
-9コミタトゥスをアベイラブルに追加。ブリトン・コントロールの5ヒルズリージョンごとにからのヒルフォートサイトに1ヒルフォートと1コミタトゥスを置く。シビリアン・ドミナンスにシフト。  
+9コミタトゥスをアベイラブルに追加。ブリトン・コントロールの5ヒルズリージョンごとにカラのヒルフォートサイトに1ヒルフォートと1コミタトゥスを置く。シビリアン・ドミナンスにシフト。  
 
 #Capability  
 ヒルズはキウィタスのホーム・テレーンに。キウィタスはタウンではなくヒルフォートからエポック・ラウンドのレベニューを得る。  
