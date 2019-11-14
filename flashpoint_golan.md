@@ -26,11 +26,9 @@
   - ユニットは補給下のPrimary/Command HQのIn Command（Command Radii内、友軍なしEZOC、敵ユニット、道なしEscarpment/Mountain Ridge/Mountain不可）なら補給下
     - LOCとCommand Radiusが微妙に違う。Command RadiiもImpassable不可では？
   - 補給切れ：HQはただちにモラル-1、ユニットは攻撃力1/2（切り捨て）、Mech/Motorは3OP、攻撃はSmall、砲兵は最初のサポート/ストライクの後Ammo Depletionに
-  - Replenish Supply（OOSを除去するということ？）
-  - Reorganize
-    - ユニットはIn Commandで非EZOC、HQはLOCで非EZOCならReorganizeマーカー
-    - マーカー除去：移動、撤退、バトル参加、ストライク実施、ストライクでモラル低下、EZOCに入る
-  - Replenish Artillery Ammunition
+  - ユニットはIn Commandで非EZOC、HQはLOCで非EZOCならReorganizeマーカーを置ける
+    - Reorganizeマーカーは移動、撤退、バトル参加、ストライク実施、ストライクでモラル低下、EZOCに入るで除去
+  - 航空補給、砲兵弾薬補給
 
 ### 作戦サイクル
 - イニシアティブプレイヤーは自軍の活性化チット1個を選んで隠し持つ
@@ -39,7 +37,7 @@
   - EZOCにいる活性化ユニットの
     - 撤退（2ヘクス後退してモラルチェック）
     - Hold Position（攻撃しない）
-    - Set-piece Battle（EZOC及ぼし元をすべて攻撃）
+    - Set-piece Battle（EZOC及ぼし元をすべて攻撃）、Set-Piece Strike（停止ユニットへのストライク）
   - EZOCにいない活性化ユニットの移動とMeeting Engagement
   - 活性化プレイヤーの航空補給、両軍の砲兵弾薬補給
   2. 拡大（Exploit）移動フェイズ
@@ -54,9 +52,22 @@
 - ターンマーカー前進
 - HQ能力消費マーカー除去
 
-## Troop Quality / 訓練レベル
-- 訓練レベルとdrでTroop Qualityを決める
+## Troop Quality
+- フォーメーションごとに最初のバトル/ストライク時に決定
+- フォーメーション所属のユニット除去ごとに-1
+- HQ除去で-2、HQ再配置で+1
+- モメンタムポイントを4以上増やすバトルで+1
+- 最大値：Elite=8、1st Line=7、Reserve=6、Militia=5、最低でも1
+- 独立ユニットのTroop Qualityは変動なし
 
+## モラル
+- Normal、Disorganized（裏面）、Broken、Cadre（裏面+マーカー）
+- 攻撃（ND）、砲撃（N）、防御力1/2（切上B）、防御力1（C）、ZOCなし（BC）、Exploit Move不可（BC）、Pursuit不可（BC）
+- Cadreがもう1段階下がればユニット除去
+- モラルチェック：
+  - 提示された数字≦Troop Qualityならパス、>なら失敗
+  - 撤退、戦略移動ではdr≦Troop Qualityならパス
+- 戦場回復（6.4）
 ## スタック
 - 6個大隊、移動/突破フェイズ終了時に判定、丘/山/通行不可は機械化/自動車化は4個大隊まで
 - 旅団=連隊、旅団=3個大隊、タスクフォース=2個大隊
@@ -71,8 +82,8 @@
 - 航空補給：航空補給能力のレンジ内にいる1個旅団を補給、友軍移動/拡大移動Phまたは補給&再編成Ph
 - 砲兵弾薬補給：In Commandな大隊規模の砲兵ユニット1個を弾薬補給、移動/拡大移動Phまたは補給&再編成Ph
 - 前線回復：バトル（ストライクではない）でモラル減少を被った勝者側の1個旅団相当がそのモラル減少を無視、戦闘解決直後
-- 戦闘工兵：
-- HQ探知：HQ探知能力のレンジ内で能力を使ったHQを探知、HQが能力を使った直後
+- 戦闘工兵：防御陣地構築、地雷敷設、地雷除去、架橋、橋破壊
+- HQ探知：HQ探知能力のレンジ内で能力を使ったHQをdr≧8で探知、HQが能力を使った直後
 - ジャミング：ジャミング能力のレンジ内の敵HQをジャミング、ジャミングPh
 - 戦車輸送：
 - ヘリコプター輸送：
