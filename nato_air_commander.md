@@ -20,7 +20,7 @@
 - 成功なら次のいずれか
   - Battlefield Surveillance：ターンに1回のみ、解決カード1枚ドローしてイベント発動 or デッキの底に
   - Locate Headquater：ターンに1回のみ、DECAP STRIKEマーカーを置く
-  - Locate Staging Areas：Thrust Lineごとにターンに1回、
+  - Locate Staging Areas：Thrust Lineごとにターンに1回、増援カードをフリップ（FOFAが可能になる）
 - 失敗するまで何度でもできる
 
 ## 航空計画フェイズ
@@ -52,13 +52,13 @@
     - DECAP STRIKEマーカーが必要
     - 1ヒット目：デッキまたはディスカードパイルから任意の1枚を除去
     - 2、3ヒット目：同じターンのレイド解決、地上戦闘、増援の解決カードを2枚引いて選べる
- 	- 目標達成判定（成功の効果適用は地上戦闘解決後）
+- 目標達成判定（成功の効果適用は地上戦闘解決後）
  
 ## 地上戦闘フェイズ
 - Attack Resolve + 右端のNATOのCohesion + CASのHit数 と WPのCohesion を比較
   - NATO ≦ WP：失敗、右端のNATOを除去して、WP前進
   - NATO > WP：成功、WPのCohesionを1減らす
- 	- NATO > WP×2：反撃、WPのCohesionを1減らす、WP後退（不可ならCohesion追加-1）、右端のNATO前進、空いたFEBA BoxにCohesion=1のNATO置く
+  - NATO > WP×2：反撃、WPのCohesionを1減らす、WP後退（不可ならCohesion追加-1）、右端のNATO前進、空いたFEBA BoxにCohesion=1のNATO置く
 - 目標達成によるWPの退却はここで実施、退却できないWPはCohisionが2下がる
   - Cohesion減少は2じゃなくて1じゃないのかと思うが、NATOが勝てないので、とりあえず2でプレイするよ
 
@@ -76,3 +76,7 @@
 
 ## ターン終了フェイズ
 - 帰投、OEW分のOCA減少、Air Interceptが偶数ならDEAD-1、同じくOCA-1、20VP以上なら核戦争、1～6ターンは左端のWP軍ごとに1VP　
+
+## 勝利条件
+- 第10ターン終了時に14VP以下ならNATOの勝利、15VP以上ならWPの勝利
+- 6本のThrust LineすべてでWP軍が左端に達した時点でWPの勝利
