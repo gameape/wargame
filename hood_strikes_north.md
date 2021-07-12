@@ -33,3 +33,8 @@
 - 小河川橋は両軍とも最大3個
 - Cumberland Riverの橋は北軍のみ使用可能、南軍はマップ外扱い
 - 両軍ともCumberland Riverに架橋不可
+
+## 上級ルール
+
+### Cleburneの死
+- Cleburne師団が攻撃に参加している戦闘で、両軍の修整前DRが同じなら、Smith-A師団と交換
