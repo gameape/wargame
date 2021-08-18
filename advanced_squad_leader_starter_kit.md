@@ -4,6 +4,11 @@
 - 歩兵ユニット：BrokenでもMeleeでもない
 - 車両：Shocked（UK含む）でもStunnedでもない
 
+## DC (Demolition Charge)
+- MPhに隣接ヘクスから目標ヘクス進入に必要なMFを消費して設置
+- 設置ユニットがFDPh終了時にunbrokenかつunpinnedなら30FPで攻撃
+- 非エリートによる設置はX# -2（10以上で故障）
+
 ## 日本軍
 ### MMCのMC失敗はステップ減少（Flip）
 - Pin、CX、Acquisitionはそのまま
