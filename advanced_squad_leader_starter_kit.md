@@ -1,5 +1,9 @@
 # Advanced Squad Leader Starter Kit
 
+## Good Order
+- 歩兵ユニット：BrokenでもMeleeでもない
+- 車両：Shocked（UK含む）でもStunnedでもない
+
 ## 日本軍
 ### MMCのMC失敗はステップ減少（Flip）
 - Pin、CX、Acquisitionはそのまま
