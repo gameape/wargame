@@ -39,7 +39,7 @@
 - HilltopのLOSはCliffのみがブロック
 - 隣接ユニットへのLOSはCliffのみがブロック
 - その他のLOSはWoods、Hilltop、Wall、Ridge、Slope、Cliffがブロック
-- Observation（三角形）のある要塞のLOSは地形に妨害されない
+- アクティブかつ未破壊のObservation（三角形）のある要塞が1個でもあれば、要塞のLOSは地形に妨害されない
 
 ## 近接突撃、要塞破壊
 - 隣接する敵ユニットまたは敵軍要塞に任意で実施
