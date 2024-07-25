@@ -83,7 +83,7 @@
 - 判定は移動フェイズ開始時と戦闘の直前
 - Static：Dump = 20MP、Transport = 10MP
 - Mobile：Dump = 10MP、Transport = 補給不可
-- 補給切れ = 戦闘力×1/2（切捨）
+- 補給切れの地上ユニットは移動力と戦闘力が1/2（切捨、最低1）
 - Mobile Transport = MA5
 - モード変更、Dumpの積み、おろし = 移動フェイズ1回
 - Dump運搬中は移動コスト×2
