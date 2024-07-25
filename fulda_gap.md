@@ -8,18 +8,16 @@
 - 航空ユニット：Penetration/Strike Allowance（nは核武装可）
 
 ## プレイの手順
-- JOINT AIR SUPERIORITY TURN
-- SOVIET PLAYER-TURN
-  - Nuclear Planning Phase
-  - Nuclear Strike Phase
-  - Initial Movement Phase
-  - Combat Phase
-  - Secondary Movement Phase
-  - Reorganization Phase
-    - Place or Remove IP
-    - Remove Disrupt
-- NATO PLAYER-TURN
-- CONTAMINATION REMOVAL and GAME-TURN INDICATION
+- 共同航空優勢ターン
+- ソビエトプレイヤーターン
+  - 核計画フェイズ
+  - 核攻撃フェイズ
+  - 第1移動フェイズ
+  - 戦闘フェイズ
+  - 第2移動フェイズ
+  - 再編成フェイズ（IP配置、IP除去、混乱除去）
+- NATOプレイヤーターン
+- 汚染除去、ゲームターン表示
 
 ## オーバーラン（5.3）
 - 3MP消費して戦闘
@@ -40,8 +38,9 @@
 
 ## ZOC（7.0）
 - Locking：進入停止、離脱は戦闘かdisengagement（14.0）、退却不可
+  - 通常はLocking ZOC
 - Erastic：停止不要、2MPで離脱可、混乱すれば退却可
-- 混乱ユニットとIPにいるユニットがErastic ZOC
+  - 混乱ユニットとIPにいるユニットがErastic ZOC
 
 ## 同一師団（8.1-8.3）
 - 攻撃力2倍：全ユニットが隣接する2ヘクスに
@@ -50,10 +49,10 @@
 
 ## Improved Position（8.4）
 - 再編成フェイズに配置、除去
-- 防御力2倍
-- 移動、退却不可
+- 防御力2倍、
+- 移動、退却、戦闘後前進不可
 - 退却値+2
-- ZOC -1
+- ZOCがElasticに
 
 ## 戦闘（9.0）
 - メイアタック
