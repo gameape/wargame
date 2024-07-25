@@ -8,18 +8,18 @@
 - 航空ユニット：Penetration/Strike Allowance（nは核武装可）
 
 ## プレイの手順
-A. JOINT AIR SUPERIORITY TURN
-B. SOVIET PLAYER-TURN
- 1. Nuclear Planning Phase
- 2. Nuclear Strike Phase
- 3. Initial Movement Phase
- 4. Combat Phase
- 5. Secondary Movement Phase
- 6. Reorganization Phase
-  - Place or Remove IP
-  - Remove Disrupt
-C. NATO PLAYER-TURN
-D. CONTAMINATION REMOVAL and GAME-TURN INDICATION
+- JOINT AIR SUPERIORITY TURN
+- SOVIET PLAYER-TURN
+  - Nuclear Planning Phase
+  - Nuclear Strike Phase
+  - Initial Movement Phase
+  - Combat Phase
+  - Secondary Movement Phase
+  - Reorganization Phase
+    - Place or Remove IP
+    - Remove Disrupt
+- NATO PLAYER-TURN
+- CONTAMINATION REMOVAL and GAME-TURN INDICATION
 
 ## オーバーラン（5.3）
 - 3MP消費して戦闘
