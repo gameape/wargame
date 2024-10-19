@@ -1,4 +1,4 @@
-# Bulge / The Big Red One
+# 'Bulge' / The Big Red One
 ## コマ
 - 数字は戦闘力
 - 移動力は一律で5
