@@ -12,6 +12,9 @@
 ## プレイの手順
 - エレメントごとにプレイヤーターンを1回実施
   - ウィングマンステップ（Wingman Step）※第1ゲームターンの最初のエレメントには無し
+    - 攻撃目標宣言
+    - ミニハンドをドロー
+    - 攻撃
   - 高度ステップ（Altitude Step）
   - リーダーステップ（Leader Step）
   - ディスカードステップ（Discard Step）：何枚でも表の面を上にしてディスカード可、一番上のカードだけ見てよい
@@ -23,7 +26,7 @@
 ## ポジション
 - 追尾（Tailing）：Burst +3
 - 優勢（Adantaged）：Burst +1
-- 中立（Neutral）：非交戦（Unengaged）
+- 中立（Neutral）：非交戦（Unengaged）、他のポジションすべては「交戦」
 - 劣勢（Disadvantaged）
 - 被追尾（Tailed）
 
