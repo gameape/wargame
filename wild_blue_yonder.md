@@ -5,7 +5,7 @@
 - Perform：手札の枚数
 - Burst：火力
 - Ceil：最高高度
-- Horsepower：ドロー枚数（L、VLで+1、Hでターボチャージャーなしは-1、VHでターボチャージャーなしは-2、ありは-1）
+- Horsepower：ドロー枚数
 - Speed：Full Throttle保持数（ジェットのみ）
 - Thrust：Full Throttleドロー数（ジェットのみ）
 
@@ -14,8 +14,8 @@
   - ウィングマンステップ（Wingman Step）※第1ゲームターンの最初のエレメントには無し
   - 高度ステップ（Altitude Step）
   - リーダーステップ（Leader Step）
-  - ディスカードステップ（Discard Step）
-  - ドローステップ（Draw Step）
+  - ディスカードステップ（Discard Step）：何枚でも表の面を上にしてディスカード可、一番上のカードだけ見てよい
+  - ドローステップ（Draw Step）：最大でPerformに等しい枚数まで、高度、Horsepower、Cloudの影響あり
 - ファイナルステップ（Final Step）
   - 第6ゲームターン終了なら勝敗決定
   - ターンマーカー前進
@@ -64,16 +64,16 @@
 - Attack: Improve Position by ONE toward Neutral if Disadvantaged or Tailed
 - Response: In My Sights, Maneuver, Full Throttle
 
-## Horsepower
-- リーダー
-  - Very High：-2 Horsepower（-1 Turbo）
-  - High：-1 Horsepower（NE Turbo）
-  - Medium：NE
-  - Low, Very Low：+1 Horsepower
-- ウィングマン
-  - Very High：-1 Offence & Defense（-1 Defense Turbo）
-  - High：-1 Defense（NE Turbo）
-  - Medium, Low, Very Low：NE
+## 高度の影響Horsepower
+- リーダーのドロー枚数
+  - Very High：-2（ターボチャージャーありなら-1）
+  - High：-1（ターボチャージャーありなら修整なし）
+  - Medium：修整なし
+  - Low, Very Low：+1
+- ウィングマンのミニハンドの枚数
+  - Very High：オフェンス、ディフェンスとも-1（ターボチャージャーありならディフェンス-1）
+  - High：ディデンスから-1（ターボチャージャーありなら修整なし）
+  - Medium, Low, Very Low：修整なし
 
 ## リーダー撃墜
 - 手札をディスカード
