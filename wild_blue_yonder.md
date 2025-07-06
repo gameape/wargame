@@ -5,7 +5,7 @@
 - Perform：手札の枚数
 - Burst：火力
 - Ceil：最高高度
-- Horsepower：ドロー枚数
+- Horsepower：ドロー枚数（L、VLで+1、Hでターボチャージャーなしは-1、VHでターボチャージャーなしは-2、ありは-1）
 - Speed：Full Throttle保持数（ジェットのみ）
 - Thrust：Full Throttleドロー数（ジェットのみ）
 
