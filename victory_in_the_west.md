@@ -10,7 +10,7 @@
 -	天候決定
 	-	Patton's Third Armyは第2ターンに開始
 	-	Operation Grenadeは第1ターン開始
-	-（Sicilyは未確認）
+	- （Sicilyは未確認）
 -	連合軍プレイヤーターン
  	- Patton's Third Army：重爆撃（第2～第7ターンかつ天候が晴れか薄曇りの1ターンに）
  		- Metz or Entrenchmentヘクス に計2回
