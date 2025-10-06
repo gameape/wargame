@@ -1,5 +1,8 @@
 # Victory in the West
 
+- [Patton's Third Army](https://github.com/gameape/wargame/blob/master/pattons_third_army.md)
+- [Operation Grenade](https://github.com/gameape/wargame/blob/master/operation_grenade.md)
+
 ## コマ
 - 値が3個のユニット：戦闘クラス - モラル - 移動力
 - 値が2個のユニット：戦闘力 - 移動力
