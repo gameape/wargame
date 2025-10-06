@@ -1,5 +1,7 @@
 # Patton's Third Army
 
+- [Victory in the West](https://github.com/gameape/wargame/blob/master/victory_in_the_west.md)
+
 ## プレイの手順
 -	天候決定（第2ターン開始）
 -	連合軍プレイヤーターン
