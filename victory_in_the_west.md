@@ -2,6 +2,7 @@
 
 - [Patton's Third Army](https://github.com/gameape/wargame/blob/master/pattons_third_army.md)
 - [Operation Grenade](https://github.com/gameape/wargame/blob/master/operation_grenade.md)
+- [Sicily](https://github.com/gameape/wargame/blob/master/sicily.md)
 
 ## コマ
 - 値が3個のユニット：戦闘クラス - モラル - 移動力
