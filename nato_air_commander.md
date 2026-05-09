@@ -20,7 +20,9 @@
 - 偵察レーティングは常に6、OCAを引いた値がAir Intercept未満なら偵察成功
 - 失敗するまで偵察を繰り返す
 - 偵察ミッション
-  - Battlefield Surveillance：ターンに1回のみ、解決カード1枚ドローしてイベント発動 or デッキの底に
+  - Battlefield Surveillance：ターンに1回のみ、次の解決カード1枚を開示して次のいずれかを決定
+    - Battlefield Surveilanceスペースに置いて、そのターンのイベントフェイズに解決
+    - デッキの底に置く（シャッフルより下になるので、そのデッキでは絶対に引かれなくなる）
   - Locate Headquater：ターンに1回のみ、DECAP STRIKEマーカーを置く
   - Locate Staging Areas：Thrust Lineごとにターンに1回、増援カードをフリップ（FOFAが可能になる）
 
