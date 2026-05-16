@@ -62,6 +62,7 @@
 - 目標達成判定（成功の効果適用は地上戦闘解決後）
 
 ## 地上戦闘フェイズ
+- Thrust Lineごとに解決カードを1枚ドロー
 - Attack Resolve + 右端のNATOのCohesion + CASのHit数 と WPのCohesion を比較
   - NATO ≦ WP：失敗、右端のNATOを除去して、WP前進
   - NATO > WP：成功、WPのCohesionを1減らす
