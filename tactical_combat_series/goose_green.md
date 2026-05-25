@@ -1,6 +1,13 @@
 # Goose Green
 
 ## 共通
+- Gullyから隣接ヘクス（またはその逆）にのみスポット、間接射撃/イギリス軍ソーティのための観測、直接射撃可
+- Gullyに対するソーティは観測なしで実施可
+- Buildingは高さ5m
+- Boca House、Burntside House、Cemeteryは地形効果なし（Buildingとアイコンが違うことに注意）
+- 等高線の間隔は15mだけど、LOSや砲兵観測については20mとして扱う
+- Darwin Inlet blidgeは初めて渡ろうとするときに 1d≧3 ならゲーム終了まで使用不可
+- Goose Lineは高さ5m、直接射撃についてPartily Protective
 - アルゼンチンのAAとイギリスの32 GWが対空砲で、マップ全域のソーティに回数制限なしに射撃可
 - 地雷原の火力は1/2、Ｐターゲットには無効、両軍とも新たな地雷敷設不可
 
