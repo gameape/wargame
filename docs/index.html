@@ -1,11 +1,245 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ja">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Playground of Game Ape</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#18212f">
+  <title>俺サマリ — ウォーゲーム・ルールリーダー</title>
+  <style>
+    :root {
+      color-scheme: light;
+      font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+      color: #172033;
+      background: #e8edf3;
+    }
+    * { box-sizing: border-box; }
+    html, body { width: 100%; height: 100%; margin: 0; overflow: hidden; }
+    body { display: flex; flex-direction: column; }
+    .toolbar {
+      flex: 0 0 auto;
+      display: flex;
+      align-items: center;
+      gap: .75rem;
+      min-height: 64px;
+      padding: .65rem 1rem;
+      color: #f8fafc;
+      background: #18212f;
+      box-shadow: 0 2px 8px #0f172a30;
+      z-index: 1;
+    }
+    .brand { margin: 0 .4rem 0 0; font-size: 1rem; white-space: nowrap; }
+    select, button, input { font: inherit; }
+    select, button {
+      min-height: 38px;
+      border: 1px solid #718096;
+      border-radius: 6px;
+      padding: .35rem .65rem;
+      color: #f8fafc;
+      background: #263449;
+    }
+    button { cursor: pointer; }
+    button:hover:not(:disabled) { background: #354963; }
+    button:disabled { opacity: .45; cursor: default; }
+    select { max-width: min(34vw, 330px); }
+    .control-group { display: flex; align-items: center; gap: .45rem; white-space: nowrap; }
+    .control-group label, .font-value { font-size: .85rem; }
+    input[type="range"] { width: 95px; accent-color: #93c5fd; }
+    .spacer { flex: 1; }
+    #status { padding: .2rem .55rem; font-size: .82rem; color: #d7e3f2; }
+    #reader {
+      flex: 1 1 auto;
+      min-height: 0;
+      margin: 12px;
+      padding: 1rem 1.4rem;
+      overflow-x: auto;
+      overflow-y: hidden;
+      scroll-behavior: smooth;
+      scroll-snap-type: x mandatory;
+      background: #fff;
+      border-radius: 8px;
+      box-shadow: 0 2px 12px #17203318;
+    }
+    #content {
+      height: 100%;
+      column-count: var(--columns, 3);
+      column-gap: 2rem;
+      column-fill: auto;
+      font-size: var(--font-size, 17px);
+      line-height: 1.42;
+      overflow-wrap: anywhere;
+    }
+    #content > :first-child { margin-top: 0; }
+    #content h1, #content h2, #content h3, #content h4 {
+      break-after: avoid;
+      line-height: 1.2;
+      color: #15253b;
+    }
+    #content h1 { font-size: 1.5em; border-bottom: 1px solid #d5dde7; padding-bottom: .25em; }
+    #content h2 { font-size: 1.2em; margin: .85em 0 .35em; }
+    #content h3 { font-size: 1.05em; margin: .7em 0 .3em; }
+    #content p, #content ul, #content ol, #content blockquote, #content pre { margin: .35em 0 .65em; }
+    #content ul, #content ol { padding-left: 1.35em; }
+    #content li { break-inside: avoid; margin: .12em 0; }
+    #content blockquote { border-left: 3px solid #9aabc0; padding-left: .75em; color: #526174; }
+    #content table { border-collapse: collapse; max-width: 100%; font-size: .92em; }
+    #content th, #content td { border: 1px solid #ccd5e0; padding: .2em .4em; }
+    #content pre { white-space: pre-wrap; overflow-wrap: anywhere; }
+    #content img { max-width: 100%; height: auto; }
+    #content a { color: #075ca8; }
+    #content > * { scroll-snap-align: start; }
+    .empty { color: #66758a; text-align: center; padding: 15vh 1rem; }
+    @media (max-width: 760px) {
+      .toolbar { flex-wrap: wrap; gap: .45rem; padding: .55rem; }
+      .brand { width: 100%; }
+      select { max-width: 45vw; }
+      .control-group label { display: none; }
+      #reader { margin: 6px; padding: .8rem; }
+      #content { column-gap: 1.25rem; }
+    }
+  </style>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/dompurify@3.2.6/dist/purify.min.js"></script>
 </head>
 <body>
-    <h1>Playground of Game Ape</h1>
+  <header class="toolbar" aria-label="サマリー表示設定">
+    <h1 class="brand">俺サマリ</h1>
+    <select id="summary" aria-label="サマリーを選択"><option>一覧を読み込み中…</option></select>
+    <div class="control-group">
+      <label for="columns">段組み</label>
+      <select id="columns" aria-label="段組み数">
+        <option value="2">2段</option><option value="3" selected>3段</option>
+        <option value="4">4段</option><option value="5">5段</option>
+      </select>
+    </div>
+    <div class="control-group">
+      <label for="fontSize">文字サイズ</label>
+      <input id="fontSize" type="range" min="14" max="22" value="17" aria-label="文字サイズ">
+      <output class="font-value" id="fontValue">17px</output>
+    </div>
+    <button id="fit" type="button" title="文字を読みやすい大きさの範囲で調整して画面に収めます">画面に合わせる</button>
+    <span class="spacer"></span>
+    <button id="previous" type="button" aria-label="前のページ">←</button>
+    <button id="next" type="button" aria-label="次のページ">→</button>
+    <span id="status" role="status" aria-live="polite"></span>
+  </header>
+  <main id="reader" aria-label="マークダウンのサマリー">
+    <article id="content"><p class="empty">サマリーを読み込んでいます…</p></article>
+  </main>
+  <script>
+    (() => {
+      const owner = 'gameape';
+      const repo = 'wargame';
+      const branch = 'master';
+      const listUrl = `https://api.github.com/repos/${owner}/${repo}/contents?ref=${branch}`;
+      const select = document.getElementById('summary');
+      const reader = document.getElementById('reader');
+      const content = document.getElementById('content');
+      const columns = document.getElementById('columns');
+      const fontSize = document.getElementById('fontSize');
+      const fontValue = document.getElementById('fontValue');
+      const status = document.getElementById('status');
+      const previous = document.getElementById('previous');
+      const next = document.getElementById('next');
+      let pageCount = 1;
+
+      function updatePages() {
+        const pageWidth = reader.clientWidth;
+        pageCount = pageWidth ? Math.max(1, Math.ceil(reader.scrollWidth / pageWidth)) : 1;
+        const page = pageWidth ? Math.round(reader.scrollLeft / pageWidth) + 1 : 1;
+        previous.disabled = page <= 1;
+        next.disabled = page >= pageCount;
+        status.textContent = pageCount > 1 ? `${page} / ${pageCount} ページ` : '全体を表示中';
+      }
+
+      function setFont(value) {
+        fontSize.value = String(value);
+        fontValue.value = `${value}px`;
+        content.style.setProperty('--font-size', `${value}px`);
+        requestAnimationFrame(updatePages);
+      }
+
+      async function fitToScreen() {
+        for (let size = Number(fontSize.value); size >= 14; size -= 1) {
+          setFont(size);
+          await new Promise(resolve => requestAnimationFrame(resolve));
+          if (reader.scrollWidth <= reader.clientWidth + 2) break;
+        }
+        reader.scrollLeft = 0;
+        updatePages();
+      }
+
+      function fileFromUrl() {
+        return new URLSearchParams(location.search).get('file');
+      }
+
+      async function loadSummary(path, updateUrl = true) {
+        if (!path) return;
+        const option = [...select.options].find(item => item.value === path);
+        const rawUrl = option?.dataset.raw || `https://raw.githubusercontent.com/${owner}/${repo}/${branch}/${encodeURIComponent(path).replaceAll('%2F', '/')}`;
+        content.innerHTML = '<p class="empty">読み込み中…</p>';
+        status.textContent = '読み込み中…';
+        reader.scrollLeft = 0;
+        try {
+          const response = await fetch(rawUrl);
+          if (!response.ok) throw new Error(`Markdown の取得に失敗しました (${response.status})`);
+          const markdown = await response.text();
+          const rendered = marked.parse(markdown, { gfm: true, breaks: false });
+          content.innerHTML = DOMPurify.sanitize(rendered);
+          if (updateUrl) {
+            const url = new URL(location.href);
+            url.searchParams.set('file', path);
+            history.replaceState(null, '', url);
+          }
+          await fitToScreen();
+        } catch (error) {
+          content.innerHTML = `<p class="empty">${DOMPurify.sanitize(error.message)}</p>`;
+          status.textContent = '読み込みに失敗しました';
+          updatePages();
+        }
+      }
+
+      async function init() {
+        if (!window.marked || !window.DOMPurify) {
+          content.innerHTML = '<p class="empty">Markdown 表示ライブラリを読み込めませんでした。ネットワーク接続を確認してください。</p>';
+          select.innerHTML = '<option>読み込みに失敗しました</option>';
+          return;
+        }
+        try {
+          const response = await fetch(listUrl, { headers: { Accept: 'application/vnd.github+json' } });
+          if (!response.ok) throw new Error(`一覧の取得に失敗しました (${response.status})`);
+          const files = (await response.json())
+            .filter(item => item.type === 'file' && item.name.toLowerCase().endsWith('.md'))
+            .sort((a, b) => a.name.localeCompare(b.name, 'ja'));
+          select.replaceChildren(...files.map(file => {
+            const option = document.createElement('option');
+            option.value = file.path;
+            option.textContent = file.name.replace(/\.md$/i, '').replaceAll('_', ' ');
+            option.dataset.raw = file.download_url;
+            return option;
+          }));
+          if (!files.length) throw new Error('Markdown ファイルが見つかりません');
+          const requested = fileFromUrl();
+          const initial = files.find(file => file.path === requested) || files.find(file => file.name === 'README.md') || files[0];
+          select.value = initial.path;
+          await loadSummary(initial.path, !requested || initial.path === requested);
+        } catch (error) {
+          select.innerHTML = '<option>サマリーを取得できません</option>';
+          content.innerHTML = `<p class="empty">${DOMPurify.sanitize(error.message)}。時間をおいて再度お試しください。</p>`;
+          status.textContent = '一覧を取得できません';
+        }
+      }
+
+      select.addEventListener('change', () => loadSummary(select.value));
+      columns.addEventListener('change', () => { content.style.setProperty('--columns', columns.value); reader.scrollLeft = 0; fitToScreen(); });
+      fontSize.addEventListener('input', () => setFont(fontSize.value));
+      document.getElementById('fit').addEventListener('click', fitToScreen);
+      previous.addEventListener('click', () => { reader.scrollBy({ left: -reader.clientWidth, behavior: 'smooth' }); });
+      next.addEventListener('click', () => { reader.scrollBy({ left: reader.clientWidth, behavior: 'smooth' }); });
+      reader.addEventListener('scroll', updatePages, { passive: true });
+      window.addEventListener('resize', fitToScreen);
+      new ResizeObserver(updatePages).observe(reader);
+      init();
+    })();
+  </script>
 </body>
 </html>
