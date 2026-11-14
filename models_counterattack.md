@@ -133,11 +133,16 @@
 - 2km/ヘクス、1日/ターン、旅団〜大隊/ユニット
 
 ### 地名カナ表記
+- Dybów ディブフ
 - Garwolin ガルボリン
 - Kołbiel コウビエル（ゲームの表記はKolbiel）
 - Latowicz ラトビチ
 - Magnuszew マグヌシェフ
 - Mińsk Mazowiecki ミンスク・マゾビエツキ
+- Nieporęt ニエポレント
 - Nowy Dwór ノビ・ドブル
 - Otwock オトフォツク
+- Radzymin ラジミン
+- Słupno スウプノ
 - Sulejów スレユフ
+- Wołomin ボウォミン
