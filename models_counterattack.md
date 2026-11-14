@@ -137,5 +137,7 @@
 - Kołbiel コウビエル（ゲームの表記はKolbiel）
 - Latowicz ラトビチ
 - Magnuszew マグヌシェフ
+- Mińsk Mazowiecki ミンスク・マゾビエツキ
+- Nowy Dwór ノビ・ドブル
 - Otwock オトフォツク
 - Sulejów スレユフ
